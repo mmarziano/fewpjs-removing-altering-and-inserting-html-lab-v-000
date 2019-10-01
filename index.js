@@ -2,8 +2,9 @@
 
 document.querySelector('main#main').remove();
 
-let div = document.createElement('div')
+let div = document.createElement('div');
+let h1 = document.createElement('h1#victory');
 
-div.appendChild('h1#victory');
+div.appendChild(hi);
 
 let newHeader = document.querySelector('h1#victory');
