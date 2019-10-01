@@ -6,3 +6,5 @@ let div = document.createElement('div');
 
 
 var newHeader = document.querySelector('h1#victory');
+
+newHeader.innerHTML = "Blank is the chamption"
