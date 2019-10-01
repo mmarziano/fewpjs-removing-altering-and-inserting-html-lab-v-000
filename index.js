@@ -7,4 +7,4 @@ let h1 = document.createElement('h1#victory');
 
 div.appendChild(hi);
 
-let newHeader = document.querySelector('h1#victory');
+var newHeader = document.querySelector('h1#victory');
